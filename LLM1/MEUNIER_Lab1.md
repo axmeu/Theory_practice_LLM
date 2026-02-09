@@ -104,6 +104,10 @@ we obtain:
 
 #### **12. How can you use your classifier to estimate the confidence in the predicted label? Plot the confidence distribution for example that are correctly identified and examples that are misclassified.**
 
+
+
 #### **13. Using l1 regularization, identify the 100 most relevant words identified by the model. You should consider the l1_min_c function**
+
+
 
 #### **14. Is it reasonable to set min_df at 2? Why?**
